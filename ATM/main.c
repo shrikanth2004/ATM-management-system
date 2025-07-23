@@ -290,6 +290,3 @@ int main() {
     return 0;
 }
 
-
-// gcc main.c -o atm.exe
-// .\atm.exe
